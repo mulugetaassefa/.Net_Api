@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "En5CoGRZqbNgw8WlboTZfobFkfLbTBm17Y3vq1vSNcE=",
+  "Source": "AdvisoryApp",
+  "BasePath": "_content/AdvisoryApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
